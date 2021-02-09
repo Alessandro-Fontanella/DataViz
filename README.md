@@ -85,11 +85,8 @@
 frameborder="0" 
 height="400" 
 width="575" 
-"https://public.tableau.com/profile/nabil2453#!/vizhome/Storia_16128670805480/Storia3?:embed=yes"
-scrolling="no" src=""https://public.tableau.com/profile/nabil2453#!/vizhome/Storia_16128670805480/Storia3?:embed=yes"
-">
-</iframe>
-			  </div>
+scrolling="no" src=""https://public.tableau.com/profile/nabil2453#!/vizhome/Storia_16128670805480/Storia3?:embed=yes""> </iframe>
+
 
 
 
