@@ -70,7 +70,7 @@ p {
 }
 
 .howTo {
-  background-color: #f5f5f5;
+  
   min-height: 300px;
   padding-top: 44px;
   padding-bottom: 88px;
