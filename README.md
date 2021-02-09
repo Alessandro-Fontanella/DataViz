@@ -253,9 +253,8 @@ a:hover {
               <h5>Dati Utilizzati</h5>
 			<p> Il report è stato sviluppato utilizzando dati provenienti dal sito <a href="https://sullygnome.com/">Twitch analytics and statistics</a> e successivamente arrichiti con altri dati provenienti da <a href="https://www.vgchartz.com/gamedb/">Games DataBase</a> ed inoltre con dati provenientei da <a href="https://it.wikipedia.org/wiki/The_Game_Awards">The Game Awards</a>  . Per approfondire si faccia riferimento a questo documento.I dati sono stati inizialmente esportati dal database MongoDB in formato json e convertiti in formato csv per poter essere utilizzato su Tableau.</p>
 			
-	<h5>Euristiche e Caveat</h5>
-             <p> </p>
-              <!-- Seguire indicazioni prof Cabitza. Aggiungere immagini con taf img se necessario-->
+            
+              
               <h2>Questionari</h2>
               <p>Per verificare la qualità delle nostre infografiche sono stati effettuati tre tipologie di assessment: la valutazione qualitativa delle euristiche, il questionario psicometrico e lo user test.
 			  </p>
@@ -273,8 +272,9 @@ a:hover {
  	  <li> 3 e 4 -> "Valutazione neutra";</li>
 	  <li>  5 e 6 -> “Valutazione positiva”.</li>
 	</ul></p>
-
-
+	<h5> Prima infografica </h5>
+	<div class='tableauPlaceholder' id='viz1612901775396' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info1val&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Info1val&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info1val&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1612901775396');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+	<a href="https://ibb.co/CsjLJys"><img src="https://i.ibb.co/n8Xp3y8/Screenshot-2021-02-09-R-Graphics-Output-info1-pdf.png" alt="Screenshot-2021-02-09-R-Graphics-Output-info1-pdf" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>imageshack free</a><br/>
 
               <h5>Test Utente</h5>
               <p>  TEST UTENTE </p>
