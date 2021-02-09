@@ -45,14 +45,12 @@
               <h1 class="text-center">Twitch TV</h1>
 			  <h2 class="text-center">Un'analisi dell'andamento della piattaforma di streaming Twitch </h2>
               <h4 class="text-center">Report a cura di:
-                <span class="name">Alessandro Fontanella Alessandro Fontanella 872590 </span>,
-                <span class="name">Nabil El Asri 826040 </span>,
-                <span class="name">Riccardo Maganza (808053)</span>e
                 <span class="name">Mario Pedol 830296</span>.
-              </div>
-          </div>
-          </div>
-      </div>
+		<span class="name">Alessandro Fontanella Alessandro Fontanella 872590 </span>,
+                <span class="name">Nabil El Asri 826040 </span>,
+            
+                
+            
 
 
 
@@ -128,7 +126,7 @@
       <!-- REGION -->
       <div class="container viz">
         <div class="row">
-          <iframe width="1200" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiOGY1NmM4YWQtZWRmYS00YzhkLTg1YTUtM2FhNzZiYzBhMmI3IiwidCI6IjdmMmY4NzQwLWZkZWYtNGEzOS1iNjgyLTI4NWI1NWI2OWE0MCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+          <iframe width="1200" height="700" src="" frameborder="0" allowFullScreen="true"></iframe>
         </div>
       </div>
 
@@ -138,21 +136,7 @@
 	<div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h5>"Dicci dove vuoi andare e ti diremo quanto ritardo farai!"</h5>
-            <p>
-			<br> Infine è stato deciso di creare, sulla base dei dati raccolti, una visualizzazione interattiva che ricorda il sito ufficiale di Trenitalia che permette all'utente di conoscere il ritardo medio della tratta di interesse.
-			<br> E' possibile inserire la città da cui si desidera partire e quella dove si vuole arrivare e se si preferisce conoscere il ritardo medio nel weekend o nei giorni infrasettimanali.
-          </div>
-        </div>
-      </div>
-
-      <!-- GIOCO -->
-      <div class="container viz">
-        <div class="row">
-          <iframe width="1200" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTQ5MjVmZDMtYTA3Yy00MjkxLTk3Y2UtNDgwZjk4MDE1YTc0IiwidCI6IjdmMmY4NzQwLWZkZWYtNGEzOS1iNjgyLTI4NWI1NWI2OWE0MCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-		  </div>
-      </div>
-
+           
 
 
 
