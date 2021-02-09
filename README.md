@@ -144,7 +144,7 @@ a:hover {
 	   	
 			  <h2 class="text-center">Un'analisi dell'andamento della piattaforma di streaming Twitch </h2>
               <h4 class="text-center">Report a cura di:
-                <span class="name">Mario Pedol 830296</span>. <br>
+                <span class="name">Mario Pedol 830296</span>, <br>
 		<span class="name">Alessandro Fontanella 872590 </span>,<br>
                 <span class="name">Nabil El Asri 826040 </span>,<br>
    
@@ -212,9 +212,6 @@ a:hover {
           <div class="col-md-8 col-md-offset-2">
             <h5></h5>
             <p>In quest'ultima visualizzazione si è voluto costruire un Bump Chart che evidenziasse come si è evoluto il Rank (calcolato come somma totale delle visualizzazioni per ogni anno) dei videogiochi più visti per le principali case produttrici.
-          </div>
-        </div>
-      </div>
 
       <!-- TERZA VIZ -->
       <div class="container viz">
@@ -256,9 +253,7 @@ a:hover {
               <h5>Dati Utilizzati</h5>
 			<p> INSERIRE NOTE METODOLOGICHE</p>
 	<h5>Euristiche e Caveat</h5>
-             <p>
-
-	</p>
+             <p> </p>
               <!-- Seguire indicazioni prof Cabitza. Aggiungere immagini con taf img se necessario-->
               <h2>Questionari</h2>
               <p>Per fare un check sulla qualità delle nostre infografiche sono stati effettuati tre tipologie di assessment: la valutazione qualitativa delle euristiche, il questionario psicometrico e lo user test.
@@ -279,4 +274,4 @@ a:hover {
               <p>  TEST UTENTE </p>
 
 	</body>
-	</html
+	</html>
