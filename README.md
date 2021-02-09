@@ -251,17 +251,18 @@ a:hover {
               <!-- In questa parte descrivere il processo di raccolta, pulizia e visualizzazione dei dati. Che tipo di dati avevo? Che tipo di operazioni sono state effettuate per poter visualizzare i dati. Come si leggono le visualizzazioni?-->
               <h2>Note Metodologiche</h2>
               <h5>Dati Utilizzati</h5>
-			<p> INSERIRE NOTE METODOLOGICHE</p>
+			<p> Il report è stato sviluppato utilizzando dati provenienti dal sito <a href="https://sullygnome.com/">Twitch analytics and statistics</a> e successivamente arrichiti con altri dati provenienti da <a href="https://www.vgchartz.com/gamedb/">Games DataBase</a> ed inoltre con dati provenientei da <a href="https://it.wikipedia.org/wiki/The_Game_Awards">The Game Awards</a>  . Per approfondire si faccia riferimento a questo documento.I dati sono stati inizialmente esportati dal database MongoDB in formato json e convertiti in formato csv per poter essere utilizzato su Tableau.</p>
+			
 	<h5>Euristiche e Caveat</h5>
              <p> </p>
               <!-- Seguire indicazioni prof Cabitza. Aggiungere immagini con taf img se necessario-->
               <h2>Questionari</h2>
-              <p>Per fare un check sulla qualità delle nostre infografiche sono stati effettuati tre tipologie di assessment: la valutazione qualitativa delle euristiche, il questionario psicometrico e lo user test.
+              <p>Per verificare la qualità delle nostre infografiche sono stati effettuati tre tipologie di assessment: la valutazione qualitativa delle euristiche, il questionario psicometrico e lo user test.
 			  </p>
 
 
 			  <h5>Valutazione qualitativa delle euristiche</h5>
-			  <p>
+			  <p> Sono stati intervistati sei utenti, i quali hanno interaggito mediamente un minuto con le diverse inforgrafiche.I principali problemi evidenziati sono la poca semplicità e chiarezza della seconda e terza infografica. Mentre la prima è stata apprezzata per la sua intuitività.
 			  </p>
 
 
