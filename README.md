@@ -155,7 +155,7 @@ a:hover {
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
             <h5>Introduzione</h5>
-            <p>L’obiettivo di questo report è sviluppare un’analisi sull'andamento dei videogiochi sulla piattaforma di streaming Twitch. <br> Si sono raccolti dati riguardanti il numero di ore viste, canali attivi, spettatori, streamer e altri dettagli riguardanti le caratteristiche dei primi 200 videogiochi per numero di visualizzazioni dal 2016 al 2020.<br>
+            <p>L’obiettivo di questo report è sviluppare un’analisi dell'andamento dei videogiochi sulla piattaforma di streaming Twitch. <br> Si sono raccolti dati riguardanti il numero di ore viste, canali attivi, spettatori, streamer e altri dettagli riguardanti le caratteristiche dei primi 200 videogiochi per numero di visualizzazioni dal 2016 al 2020.<br>
 		</p>
           </div>
         </div>
@@ -169,7 +169,7 @@ a:hover {
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
             <h5></h5>
-            <p>La prima visualizzazione è costituita da 2 grafici a dispersione che mettono a confronto la media dei canali più attivi per ogni genere con la media dei relativi spettatori. In particolare, nella Prima Si prendono in considerazione tutti i generi mentre nella seconda si è voluto porre un focus maggiore solamente sui generi che sono vicino alle 2 mediane.
+            <p>La prima visualizzazione è costituita da 2 grafici a dispersione che mettono a confronto la media dei canali più attivi per ogni genere con la media dei relativi spettatori. In particolare, nella prima si prendono in considerazione tutti i generi mentre nella seconda si è voluto porre un focus maggiore solamente sui generi che sono vicino alle 2 mediane.
 			</p>
           </div>
 		  </div>
@@ -234,7 +234,7 @@ a:hover {
           <div class="col-md-8 col-md-offset-2">
             <h5>CONCLUSIONI</h5>
             <p>Queste visualizzazioni mostrano come si è evoluta fino a ottobre 2020 la piattaforma di streaming, nata per i videogiochi, Twitch.
-	In particolare, si sono rilevati i giochi di maggior successo come Fortnite, i generi che attirano maggior attenzione e le case produttrici che sviluppano i miglior videogame. Non è possibile svolgere analisi più approfondite a causa della mancanza di dati dovuti principalmente alla riservatezza della piattaforma e degli sviluppatori, comunque sia questi dati rappresentano una possibile base per sviluppare modelli predittivi al fine di individuare, il miglior gioco per aprire un canale.
+	In particolare, si sono rilevati i giochi di maggior successo come Fortnite, i generi che attirano maggior attenzione e le case produttrici che sviluppano i migliori videogame. Non è possibile svolgere analisi più approfondite a causa della mancanza di dati dovuta principalmente alla riservatezza della piattaforma e degli sviluppatori, comunque sia questi dati rappresentano una possibile base per sviluppare modelli predittivi al fine di individuare il miglior gioco per aprire un canale.
 
 			</p>
 			</div>
@@ -251,7 +251,7 @@ a:hover {
               <!-- In questa parte descrivere il processo di raccolta, pulizia e visualizzazione dei dati. Che tipo di dati avevo? Che tipo di operazioni sono state effettuate per poter visualizzare i dati. Come si leggono le visualizzazioni?-->
               <h2>Note Metodologiche</h2>
               <h5>Dati Utilizzati</h5>
-			<p> Il report è stato sviluppato utilizzando dati provenienti dal sito <a href="https://sullygnome.com/">Twitch analytics and statistics</a> e successivamente arrichiti con altri dati provenienti da <a href="https://www.vgchartz.com/gamedb/">Games DataBase</a> ed inoltre con dati provenientei da <a href="https://it.wikipedia.org/wiki/The_Game_Awards">The Game Awards</a>  . Per approfondire si faccia riferimento a questo documento.I dati sono stati inizialmente esportati dal database MongoDB in formato json e convertiti in formato csv per poter essere utilizzato su Tableau.</p>
+			<p> Il report è stato sviluppato utilizzando dati provenienti dal sito <a href="https://sullygnome.com/">Twitch analytics and statistics</a> e successivamente arrichiti con altri dati provenienti da <a href="https://www.vgchartz.com/gamedb/">Games DataBase</a> ed inoltre con dati da <a href="https://it.wikipedia.org/wiki/The_Game_Awards">The Game Awards</a>  . Per approfondire si faccia riferimento a questo documento. I dati sono stati inizialmente esportati dal database MongoDB in formato json e convertiti in formato csv per poter essere utilizzati su Tableau.</p>
 			
             
               
@@ -261,12 +261,12 @@ a:hover {
 
 
 			  <h5>Valutazione qualitativa delle euristiche</h5>
-			  <p> Sono stati intervistati sei utenti, i quali hanno interaggito mediamente un minuto con le diverse inforgrafiche.I principali problemi evidenziati sono la poca semplicità e chiarezza della seconda e terza infografica. Mentre la prima è stata apprezzata per la sua intuitività.
+			  <p> Sono stati intervistati sei utenti, i quali hanno interagito mediamente un minuto con le diverse infografiche.I principali problemi evidenziati sono la poca semplicità e chiarezza della seconda e terza infografica. Mentre la prima è stata apprezzata per la sua intuitività.
 			  </p>
 
 
               <h5>Questionario psicometrico</h5>
-              <p> Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questionario psicometrico Cabitza-Locoro a 12 utenti. Le tre infografiche sono state valutate attraverso una scala da 1 (Poco) a 6 (Molto) rispetto agli attributi qualitativi “Utilità”, “Intuitività”, “Chiarezza”, “Informatività”, “Bellezza” e “Valutazione Generale”. Successivamente i valori sono stati suddivisi in per poter effettuare un'analisi più approfondita:
+              <p> Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questionario psicometrico Cabitza-Locoro a 12 utenti. Le tre infografiche sono state valutate attraverso una scala da 1 (Poco) a 6 (Molto) rispetto agli attributi qualitativi “Utilità”, “Intuitività”, “Chiarezza”, “Informatività”, “Bellezza” e “Valutazione Generale”. Successivamente i valori sono stati suddivisi per poter effettuare un'analisi più approfondita:
 	<ul>
 	  <li>1 e 2 -> “Valutazione negativa”;</li>
  	  <li>3 e 4 -> "Valutazione neutra";</li>
@@ -283,8 +283,8 @@ a:hover {
 	<a href="https://ibb.co/SJrtWDb"><img src="https://i.ibb.co/g6VSHbN/Screenshot-2021-02-09-R-Graphics-Output-info3-pdf.png" alt="Screenshot-2021-02-09-R-Graphics-Output-info3-pdf" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'></a><br />
               <h5>Test Utente</h5>
               <p>  Persone coinvolte 12
-	Inoltre per effettuare una verifica sulla fruizione generale del report è stato richiesto lo svolgimento di tre semplici task a diversi utenti, registrando le risposte ed il tempo impiegato.
-	Quale genere in media ha più canali e spettatori attivi?  ~20 sec
-	Quale tra i generi outlier è il gioco più variabile tra i più visti? ~55 sec
+	Inoltre per effettuare una verifica sulla fruizione generale del report è stato richiesto lo svolgimento di tre semplici task a diversi utenti, registrando le risposte ed il tempo impiegato. <br>
+	Quale genere in media ha più canali e spettatori attivi?  ~20 sec <br>
+	Quale tra i generi outlier è il gioco più variabile tra i più visti? ~55 sec <br>
 	Quale publisher ha il gioco che migliora di più? ~25 sec </p>
 
