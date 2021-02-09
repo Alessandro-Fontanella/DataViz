@@ -128,11 +128,11 @@ a:hover {
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 
 <body>
-<span class="iconify" data-icon="logos-twitch" data-inline="false"></span>
+
     <!-- Intro con titolo e immagine. Inserire immagine in /media/ con il nome cover.png
     Al posto dei segna posto aggiungere il vostro nome e matricola negli <span> -->
       <div class="intro">
@@ -141,7 +141,7 @@ a:hover {
             <div class="col-md-8 col-md-offset-2 text">
               <h5 class="text-center">Università degli Studi Milano-Bicocca - 2020/2021</h5>
               <h1 class="text-center">Twitch TV</h1>
-	   
+	   	<i class="fa fa-twitch fa-5x"></i>
 			  <h2 class="text-center">Un'analisi dell'andamento della piattaforma di streaming Twitch </h2>
               <h4 class="text-center">Report a cura di:
                 <span class="name">Mario Pedol 830296</span>. <br>
@@ -279,4 +279,4 @@ a:hover {
               <p>  TEST UTENTE </p>
 
 	</body>
-	</html>
+	</html
