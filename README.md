@@ -284,7 +284,9 @@ a:hover {
               <h5>Test Utente</h5>
               <p>  Persone coinvolte 12
 	Inoltre per effettuare una verifica sulla fruizione generale del report è stato richiesto lo svolgimento di tre semplici task a diversi utenti, registrando le risposte ed il tempo impiegato. <br>
-	Quale genere in media ha più canali e spettatori attivi?  ~20 sec <br>
-	Quale tra i generi outlier è il gioco più variabile tra i più visti? ~55 sec <br>
-	Quale publisher ha il gioco che migliora di più? ~25 sec </p>
-
+	<ol>
+	<li>Quale genere in media ha più canali e spettatori attivi?  ~20 sec </li>
+	<li>Quale tra i generi outlier è il gioco più variabile tra i più visti? ~55 sec </li>
+	<li>Quale publisher ha il gioco che migliora di più? ~25 sec  </li>
+	</ol>
+	</p>
