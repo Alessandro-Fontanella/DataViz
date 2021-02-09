@@ -7,8 +7,8 @@
 /*-------------------------------*/
 body{background-color: #007ea7;
 background-image: linear-gradient(315deg, #007ea7 0%, #80ced7 74%);
-background: url('https://api.iconify.design/logos-twitch.svg') no-repeat center center / contain;
 }
+
 
 h1 {
   font-family: 'Montserrat', sans-serif;
@@ -107,7 +107,7 @@ a:hover {
   color: #c74446;
 }
 </style>
-
+	
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -128,10 +128,11 @@ a:hover {
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
+  <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 </head>
 
 <body>
-
+<span class="iconify" data-icon="logos-twitch" data-inline="false"></span>
     <!-- Intro con titolo e immagine. Inserire immagine in /media/ con il nome cover.png
     Al posto dei segna posto aggiungere il vostro nome e matricola negli <span> -->
       <div class="intro">
