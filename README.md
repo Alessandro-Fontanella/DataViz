@@ -81,12 +81,7 @@
       </div>
 
       <!-- PRIMA VIZ -->
- 	<iframe 
-frameborder="0" 
-height="400" 
-width="575" 
-scrolling="no" src="https://public.tableau.com/profile/nabil2453#!/vizhome/Storia_16128670805480/Storia3?:embed=yes">
-</iframe>
+ 	<iframe  frameborder="0" height="400" width="575" scrolling="no" src="https://public.tableau.com/profile/nabil2453#!/vizhome/Storia_16128670805480/Storia3?:embed=yes"></iframe>
 			  </div>
 
 
