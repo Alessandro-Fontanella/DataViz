@@ -138,6 +138,7 @@ a:hover {
             <div class="col-md-8 col-md-offset-2 text">
               <h5 class="text-center">Università degli Studi Milano-Bicocca - 2020/2021</h5>
               <h1 class="text-center">Twitch TV</h1>
+	      <a href="https://ibb.co/vQjnttN"><img src="https://i.ibb.co/gPRKnn0/kisspng-twitch-tv-streaming-media-video-games-logo-live-st-wayscript-5c8b23a7330bf2-9730836915526225.png" alt="kisspng-twitch-tv-streaming-media-video-games-logo-live-st-wayscript-5c8b23a7330bf2-9730836915526225" border="0"></a>
 			  <h2 class="text-center">Un'analisi dell'andamento della piattaforma di streaming Twitch </h2>
               <h4 class="text-center">Report a cura di:
                 <span class="name">Mario Pedol 830296</span>. <br>
