@@ -49,19 +49,7 @@ p {
 }
 
 .intro {
-  background:
-  linear-gradient(
-      rgba(255, 255, 255, 0.50),
-      rgba(255, 255, 255, 1.0)
-    ),url(../media/cover.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  min-height: 550px;
-  background-color: #001;
-  padding-top: 85px;
-  margin-bottom: 70px;
+ 
 }
 
 
