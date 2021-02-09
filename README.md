@@ -7,7 +7,9 @@
 /*-------------------------------*/
 body{background-color: #007ea7;
 background-image: linear-gradient(315deg, #007ea7 0%, #80ced7 74%);
+background: url('https://api.iconify.design/logos-twitch.svg') no-repeat center center / contain;
 }
+
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
