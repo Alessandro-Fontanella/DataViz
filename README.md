@@ -5,8 +5,8 @@
 /*-------------------------------*/
 /*            Typography            */
 /*-------------------------------*/
-body{background-color: #1fd1f9;
-background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+body{background-color: #007ea7;
+background-image: linear-gradient(315deg, #007ea7 0%, #80ced7 74%);
 }
 h1 {
   font-family: 'Montserrat', sans-serif;
