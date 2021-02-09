@@ -61,7 +61,7 @@ p {
     -o-background-size: cover;
     background-size: cover;
   min-height: 550px;
-  background-color: #000;
+  background-color: #001;
   padding-top: 85px;
   margin-bottom: 70px;
 }
