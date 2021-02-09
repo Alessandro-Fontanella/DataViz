@@ -139,9 +139,9 @@ a:hover {
         <div class="container">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text">
-              <h5 class="text-center">Università degli Studi Milano-Bicocca - 2020/2021</h5>
+              <h5 class="text-center">Università degli Studi Milano-Bicocca - 2020/2021</h5><i class="fa fa-twitch fa-5x"></i>
               <h1 class="text-center">Twitch TV</h1>
-	   	<i class="fa fa-twitch fa-5x"></i>
+	   	
 			  <h2 class="text-center">Un'analisi dell'andamento della piattaforma di streaming Twitch </h2>
               <h4 class="text-center">Report a cura di:
                 <span class="name">Mario Pedol 830296</span>. <br>
