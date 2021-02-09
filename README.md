@@ -82,12 +82,11 @@
 
       <!-- PRIMA VIZ -->
  	<iframe 
-	frameborder="0" 
-	height="400" 
-	width="575" 
-
-	scrolling="no" src=""https://public.tableau.com/profile/nabil2453#!/vizhome/Storia_16128670805480/Storia3?:embed=yes"">
-	</iframe>
+frameborder="0" 
+height="400" 
+width="575" 
+scrolling="no" src="https://public.tableau.com/profile/nabil2453#!/vizhome/Storia_16128670805480/Storia3?:embed=yes">
+</iframe>
 			  </div>
 
 
@@ -108,12 +107,11 @@
       <div class="container viz">
         <div class="row">
 	<iframe 
-	frameborder="0" 
-	height="400" 
-	width="575" 
-
-	scrolling="no" src=""https://public.tableau.com/profile/nabil2453#!/vizhome/Infografica2_16128674860610/Dashboard1?:embed=yes"">
-	</iframe>
+frameborder="0" 
+height="400" 
+width="575" 
+scrolling="no" src="https://public.tableau.com/profile/nabil2453#!/vizhome/Infografica2_16128674860610/Dashboard1?:embed=yes">
+</iframe>
      			  </div>
       </div>
 
