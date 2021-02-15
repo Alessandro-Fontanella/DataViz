@@ -260,7 +260,7 @@ a:hover {
 		<ul> 
 		<li> Nella prima infografica, non è stata possibile inserire un legenda che indicasse i differenti generi dei videogiochi, il problema risiede nel  numero elevato che li caratterizza. Si è preferito quindi inserire dei riferimenti scritti che contestualizzassero meglio il contesto.</li>
 		<li> Nella serie storica non è stato possibile inserire, per ogni gioco presente, una descrizione dettagliata riguardante gli eventi salienti nell'arco del periodo osservato. La complessità, non è tanto da attribuire alla ricerca dei punti significativi lungo la serie temporale, bensì alla selezione delle numerosi fonti da cui ricavare le date degli avvenimenti. Si è deciso così, al posto di considerare tutti i singoli giochi, di analizzare soltanto "Counter-Strike: Global Offensive" (genere Shooter) poiché presenta un andamento che influisce non poco sulla linea temporale generica.</li>
-		<li> Nella terza inforgrafica nel Bump Chart l'asse delle ordinate e' invertito, 
+		<li> Nella terza infografica nel Bump Chart l'asse delle ordinate e' invertito, 
 	sebbene possa risultare controintuitivo tale scelta è stata adottata,sulla base di feedback, al fine di rappresentare al meglio il concetto di classifica</li></ul></p>
               <h2>Questionari</h2>
               <p>Per verificare la qualità delle nostre infografiche sono stati effettuati tre tipologie di assessment: la valutazione qualitativa delle euristiche, il questionario psicometrico e lo user test.
