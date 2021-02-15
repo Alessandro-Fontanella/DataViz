@@ -255,8 +255,13 @@ a:hover {
 		<h5> PreProcessing </h5>
 		<p> Durante la fase di preprocessing sono state effettuate diverse operazioni per pulire i dati grezzi raccolti attraverso web scraping provenienti da <a href="https://www.vgchartz.com/gamedb/">Games DataBase</a> e <a href="https://it.wikipedia.org/wiki/The_Game_Awards">The Game Awards</a>.
 		In particolare rispetto al primo dataset si è dovuta effettuare una modifica dello schema con cui i dati erano stati immagazzinati: droppando diversi campi che non indicavano informazioni per noi utili, inoltre si è resa necessaria la formattazione dei nomi dei videogiochi e delle dati di rilascio degli stessi in un formato standard. Successivamente per il secondo dataset proveniente da <a href="https://it.wikipedia.org/wiki/The_Game_Awards"> wikipedia italia</a>  si è effettuata un'operazione di traduzione delle informazioni ricavate dallo scraping in lingua inglese così da uniformare i dati rispetto alla lingua del dataset principale  </p>
-            
-              
+              <h5>Caveat</h5>
+              <p> Le infografiche sono state create tenendo conto dei caveat presentati a lezione. In alcuni casi si riscontrano comunque leggere anomalie dettate da motivazioni differenti
+		<ul> 
+		<li> Nella prima infografica, non è stata possibile inserire un legenda che indicasse i differenti generi dei videogiochi, il problema risiede nel  numero elevato che li caratterizza. Si è preferito quindi inserire dei riferimenti scritti che contestualizzassero meglio il contesto.</li>
+		<li> Nella serie storica non è stato possibile inserire, per ogni gioco presente, una descrizione dettagliata riguardante gli eventi salienti nell'arco del periodo osservato. La complessità, non è tanto da attribuire alla ricerca dei punti significativi lungo la serie temporale, bensì alla selezione delle numerosi fonti da cui ricavare le date degli avvenimenti. Si è deciso così, al posto di considerare tutti i singoli giochi, di analizzare soltanto "Counter-Strike: Global Offensive" (genere Shooter) poiché presenta un andamento che influisce non poco sulla linea temporale generica.</li>
+		<li> Nella terza inforgrafica nel Bump Chart l'asse delle ordinate e' invertito, 
+	sebbene possa risultare controintuitivo tale scelta è stata adottata,sulla base di feedback, al fine di rappresentare al meglio il concetto di classifica</li></ul></p>
               <h2>Questionari</h2>
               <p>Per verificare la qualità delle nostre infografiche sono stati effettuati tre tipologie di assessment: la valutazione qualitativa delle euristiche, il questionario psicometrico e lo user test.
 			  </p>
