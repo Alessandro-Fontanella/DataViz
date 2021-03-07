@@ -292,10 +292,9 @@ a:hover {
               <p>  Persone coinvolte 6 <br>
 	Inoltre per effettuare una verifica sulla fruizione generale del report è stato richiesto lo svolgimento di tre semplici task a diversi utenti, registrando le risposte ed il tempo impiegato. <br>
 	<ol>
-	<li>Task 1 - Quale genere in media ha più canali e spettatori attivi?  </li>
-	<li>Task 2 - Quale tra i generi outlier è il gioco più variabile tra i più visti? </li>
-	<li>Task 3 - Quale publisher ha il gioco che migliora di più? </li>
-	</ol>
+	<li>Task 1 - Quale genere in media ha più canali e spettatori attivi?</li>
+	<li>Task 2 - Quale tra i generi outlier è il gioco più variabile tra i più visti?</li>
+	<li>Task 3 - Quale publisher ha il gioco che migliora di più?</li> </ol>
 	In tabella sono riportati i tempi di esecuzione dei tre compiti (in verde i tempi delle persone che hanno necessitato di un aiuto nel completamento del task):
 	
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/GcbKmf6/Schermata-2021-03-07-alle-17-43-45-1.png" alt="Schermata-2021-03-07-alle-17-43-45-1" border="0"></a>
