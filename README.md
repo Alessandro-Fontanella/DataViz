@@ -273,7 +273,7 @@ a:hover {
 
 
               <h5>Questionario psicometrico</h5>
-              <p> Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questionario psicometrico Cabitza-Locoro a 12 utenti. Le tre infografiche sono state valutate attraverso una scala da 1 (Poco) a 6 (Molto) rispetto agli attributi qualitativi “Utilità”, “Intuitività”, “Chiarezza”, “Informatività”, “Bellezza” e “Valutazione Generale”. Successivamente i valori sono stati suddivisi per poter effettuare un'analisi più approfondita:
+              <p> Per poter valutare la nostra prima visualizzazione abbiamo sottoposto il questionario psicometrico Cabitza-Locoro a 32 utenti. Le tre infografiche sono state valutate attraverso una scala da 1 (Poco) a 6 (Molto) rispetto agli attributi qualitativi “Utilità”, “Intuitività”, “Chiarezza”, “Informatività”, “Bellezza” e “Valutazione Generale”. Successivamente i valori sono stati suddivisi per poter effettuare un'analisi più approfondita:
 	<ul>
 	  <li>1 e 2 -> “Valutazione negativa”;</li>
  	  <li>3 e 4 -> "Valutazione neutra";</li>
