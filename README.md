@@ -190,7 +190,7 @@ a:hover {
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
             <h5></h5>
-            <p>La seconda Infografica invece è composta da una serie temporale per le visualizzazioni di ogni videogioco e genere per ogni mese di ogni anno a nostra disposizione. Si è deciso di accostare anche un Dot Plot che riporta il numero di visualizzazioni di ogni gioco per genere.
+            <p>La seconda Infografica invece è composta da uno stacked area graph per le visualizzazioni di ogni videogioco e genere per ogni mese di ogni anno a nostra disposizione. Si è deciso di accostare anche un Dot Plot che riporta il numero di visualizzazioni di ogni gioco per genere.
 	Inoltre, è stata mantenuta sempre una distinzione tra generi outlier, individuati al punto precedente, che quindi risultano essere più frequentati e i generi meno frequentati.
 
 
@@ -211,7 +211,7 @@ a:hover {
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
             <h5></h5>
-            <p>In quest'ultima visualizzazione si è voluto costruire un Bump Chart che evidenziasse come si è evoluto il Rank (calcolato come somma totale delle visualizzazioni per ogni anno) dei videogiochi più visti per le principali case produttrici.
+            <p>In quest'ultima visualizzazione si è voluto costruire un Bump Chart che evidenziasse come si è evoluto il Rank,calcolato come somma totale delle visualizzazioni per ogni anno, dei videogiochi più visti per le principali case produttrici. Si è inoltre deciso di calcolare tale Rank da un punto di partenza comune da luglio 2017 fino ad ottobre 2020.
 
       <!-- TERZA VIZ -->
       <div class="container viz">
@@ -289,11 +289,14 @@ a:hover {
 	<div class='tableauPlaceholder' id='viz1612902200632' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;info3val&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='info3val&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;in&#47;info3val&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1612902200632');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 	<a href="https://ibb.co/SJrtWDb"><img src="https://i.ibb.co/g6VSHbN/Screenshot-2021-02-09-R-Graphics-Output-info3-pdf.png" alt="Screenshot-2021-02-09-R-Graphics-Output-info3-pdf" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'></a><br />
               <h5>Test Utente</h5>
-              <p>  Persone coinvolte 12 <br>
+              <p>  Persone coinvolte 6 <br>
 	Inoltre per effettuare una verifica sulla fruizione generale del report è stato richiesto lo svolgimento di tre semplici task a diversi utenti, registrando le risposte ed il tempo impiegato. <br>
 	<ol>
-	<li>Quale genere in media ha più canali e spettatori attivi?  ~20 sec </li>
-	<li>Quale tra i generi outlier è il gioco più variabile tra i più visti? ~55 sec </li>
-	<li>Quale publisher ha il gioco che migliora di più? ~25 sec  </li>
+	<li>Task 1 - Quale genere in media ha più canali e spettatori attivi?  </li>
+	<li>Task 2 - Quale tra i generi outlier è il gioco più variabile tra i più visti? </li>
+	<li>Task 3 - Quale publisher ha il gioco che migliora di più? </li>
 	</ol>
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/GcbKmf6/Schermata-2021-03-07-alle-17-43-45-1.png" alt="Schermata-2021-03-07-alle-17-43-45-1" border="0"></a>
+	Nel seguente grafico sono riportati i tempi di esecuzione dei tre compiti:
+	<a href="https://ibb.co/ZK3vZ4D"><img src="https://i.ibb.co/d6SXhCY/Violin-Plot.jpg" alt="Violin-Plot" border="0"></a>
 	</p>
