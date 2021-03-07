@@ -297,7 +297,7 @@ a:hover {
 	<li>Task 3 - Quale publisher ha il gioco che migliora di più?</li> </ol>
 	In tabella sono riportati i tempi di esecuzione dei tre compiti (in verde i tempi delle persone che hanno necessitato di un aiuto nel completamento del task):
 	
-	<a href="https://imgbb.com/"><img src="https://i.ibb.co/y571pnB/photo-2021-03-07-18-17-23.jpg" alt="photo-2021-03-07-18-17-23" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>creare foto gratis</a><br />
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/y571pnB/photo-2021-03-07-18-17-23.jpg" alt="photo-2021-03-07-18-17-23" border="0"></a><br /><a></a><br />
 	
 	<a href="https://ibb.co/YtY2NZt"><img src="https://i.ibb.co/tbkBHXb/media-mediana.jpg" alt="media-mediana" border="0"></a>
 	
