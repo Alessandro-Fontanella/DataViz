@@ -259,7 +259,7 @@ a:hover {
               <p> Le infografiche sono state create tenendo conto dei caveat presentati a lezione. In alcuni casi si riscontrano comunque leggere anomalie dettate da motivazioni differenti
 		<ul> 
 		<li> Nella prima infografica, non è stata possibile inserire un legenda che indicasse i differenti generi dei videogiochi, il problema risiede nel  numero elevato che li caratterizza. Si è preferito quindi inserire dei riferimenti scritti che contestualizzassero meglio il contesto.</li>
-		<li> La seconda infografica nella versione originale ed integrale e' disponibile <a href=https://public.tableau.com/app/profile/nabil2453/viz/Infografica4/Dashboard2> qui</a>
+		<li> La seconda infografica nella versione originale ed integrale e' disponibile <a href="https://public.tableau.com/app/profile/nabil2453/viz/Infografica4/Dashboard2"> qui</a>
  </li>
 		<li> Nella terza infografica nel Bump Chart l'asse delle ordinate e' invertito, 
 	sebbene possa risultare controintuitivo tale scelta è stata adottata,sulla base di feedback, al fine di rappresentare al meglio il concetto di classifica</li></ul></p>
